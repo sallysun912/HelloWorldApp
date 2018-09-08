@@ -1,6 +1,6 @@
 # HelloSally
-
 My first Android app
+
 ## HelloSally
 
 ### App Description
