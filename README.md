@@ -7,7 +7,7 @@ My first Android app, created to sign up for Codepath courses.
 
 ### App Walk-though
 
-<img src="https://drive.google.com/open?id=1GmylJE0iyBBDXsrhnPR56_p5sN6lqMcX" width=200><br>
+<img src="https://i.imgur.com/3a8JTly.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
