@@ -1,6 +1,7 @@
-# HelloWorldApp
+# HelloSally
+
 My first Android app
-## HelloWorldApp
+## HelloSally
 
 ### App Description
 My first Android app, created to sign up for Codepath courses.
